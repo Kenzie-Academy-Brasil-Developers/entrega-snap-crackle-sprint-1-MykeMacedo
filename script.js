@@ -1,4 +1,4 @@
-function snapCrackle(maxValue) {
+function snapCrackle(maxValue){
 let lista = []
     for (let i = 1; i <= maxValue; i++) {
         if(i % 2 === 1){
